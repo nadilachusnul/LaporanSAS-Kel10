@@ -150,7 +150,7 @@ Anastasya Rahma Juniarti - 120219058
     ![A1.20](aset/4.rename.jpg)
 - kemudian masuk pada network interfaces untuk mengedit lxc 
     
-    ![A1.21](aset/4.gnu nano.jpg)
+    ![A1.21](aset/4.gnunano.jpg)
 
 - masuk ke dalam direktori sites enable, membuat symbolic link file container dan melakukan test serta buka file direktori host
     ```bash 
