@@ -233,11 +233,13 @@ Anastasya Rahma Juniarti - 120219058
     ![A1.25](aset/uhhi.jpg)
 
     - mengakses http://vm.local/blog
+    
     ![A1.25](aset/blog.jpg)
     
     ![A1.25](aset/welcome.jpg)
 
     - mengakses http://vm.local/app
+    
      ![A1.25](aset/app.jpg)
      
      ![A1.25](aset/welcomelxc.jpg)   
