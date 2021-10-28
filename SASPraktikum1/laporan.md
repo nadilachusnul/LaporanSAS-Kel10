@@ -214,11 +214,11 @@ Anastasya Rahma Juniarti - 120219058
     ![A1.25](aset/6.sysadmin.jpg)
 - melakukan test serta mengecek konektivitas ke URL
 
-        ```bash
-        sudo nginx -t
-        sudo nginx -s reload
-        curl -i http://vm.local
-        ```
+     ```bash
+     sudo nginx -t
+     sudo nginx -s reload
+     curl -i http://vm.local
+     ```
     ![A1.25](aset/6.gnunano2.jpg)
 ### 7. Pengujian pada web browser ketiga web
 - setting host pada windows
