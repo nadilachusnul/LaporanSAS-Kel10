@@ -243,3 +243,16 @@ Anastasya Rahma Juniarti - 120219058
      ![A1.25](aset/app.jpg)
      
      ![A1.25](aset/welcomelxc.jpg)   
+     
+ ### 8. Soal analisa 
+    - mengapa untuk kebutuhan php5.6 tidak bisa menggunakan ubuntu 16.04, sehingga perlu diganti os ke debian 9?
+
+        Ubuntu 16.04 will reach the end if otherwise support and unusable on php 5.6
+
+    - kenapa harus menggunakan virtualisasi LXC pada skema website yang akan didevelop?
+
+          Because the website uses Linux. So, using LXC virtualization to make servers easier
+
+    - apa yang dimaksud dengan proxy server? kenapa vm.local bisa kita anggap sebagai proxy server?
+    
+        A proxy server is a computer program that acts as an intermediary between clients to request content from the Internet or intranet. To control the activity of data               packet traffic that passes through it.
