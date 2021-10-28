@@ -5,7 +5,8 @@ Nadila Chusnul K - 1202190020
 Anastasya Rahma Juniarti - 120219058 
 
 #Hal pertama pastikan adaptop bridge dan setting ip static
-![A1](aset/bridge.jpg)
+
+        ![A1](aset/bridge.jpg)
 
 - Check lxc  dari praktikum sebelumnya
     ```bash
