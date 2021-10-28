@@ -5,6 +5,7 @@ Nadila Chusnul K - 1202190020
 Anastasya Rahma Juniarti - 120219058 
 
 #Hal pertama pastikan adaptop bridge dan setting ip static
+
     ![A1](aset/bridge.jpg)
 
 - Check lxc  dari praktikum sebelumnya
@@ -38,6 +39,7 @@ Anastasya Rahma Juniarti - 120219058
     ![A1.5](aset/1.lxcphplandingdanphp7.jpg)
 
 - ubah ip ubuntu landing 
+
     ![A1.6](aset/1.ubahiplanding.jpg)
 
 - restart ip. Lalu cek ip menggunakan ifconfig 
